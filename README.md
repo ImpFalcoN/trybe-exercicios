@@ -12,7 +12,7 @@ Este repositório está organizado em diferentes pastas que correspondem às div
 
 ## Perfil do Autor
 
-Para saber mais sobre mim e entrar em contato, você pode verificar o meu [LinkedIn](https://www.linkedin.com/in/dev-gabriel-da-silva/).
+Para saber mais sobre mim e entrar em contato, você pode verificar o meu [LinkedIn](https://www.linkedin.com/in/gabriel-da-silva-796085299/).
 
 ## Contribuições
 
